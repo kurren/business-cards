@@ -15,10 +15,12 @@ Files in this repo are:
 
 - business_card.tex
 - business_card_2.tex
+
 These are the 'framework' for the card layout. Change the dimensions in these files if you target different MOO products.
 
 - bc_front.tex
 - bc_back.tex
+
 These are the two sides of the card.
 
 
